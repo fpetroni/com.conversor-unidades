@@ -7,7 +7,9 @@
 # Conversor de Unidades
 App de escritorio con Java para conv-ertir unidades (Este programa de escritorio corresponde al 1er Challenge de Alura ONE correspondiente al módulo de JAVA).
 
-Para probarlo en su PC de escritorio o laptop, puede simplemente descargar el archivo com.conversor.jar y tener instalado el <b>jdk 11.0</b> o superior.
+Para probarlo en su PC de escritorio o laptop, puede simplemente descargar el archivo <i>com.conversor.jar</i> del proyecto o haciendo <a href="https://github.com/fpetroni/com.conversor-unidades/raw/main/com.conversor.jar">clic aquí</a> simplemente (Me encargué de rutearlo por usted XD). IMPORTANTE: debe tener insta instalado el <b>jdk 11.0</b> o superior.
+
+Puede probarlo sin problemas, pero ante todo recuerde que es un...
 
 <h4 align="center"> 🚧 Proyecto en desarrollo 🚧 </h4>
 
