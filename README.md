@@ -5,7 +5,11 @@
 </p>
 
 # Conversor de Unidades
-App de escritorio con Java para conv-ertir unidades (Este programa de escritorio corresponde al 1er Challenge de Alura ONE correspondiente al módulo de JAVA).
+*** Java Desktop App to convert units of measure ***
+
+![Conversor](https://user-images.githubusercontent.com/107371013/173469102-439ff360-30b4-49c4-a013-92b25e404b43.gif)
+
+App de escritorio con Java para convertir unidades (Este programa de escritorio corresponde al 1er Challenge de Alura ONE correspondiente al módulo de JAVA).
 
 Para probarlo en su PC de escritorio o laptop, puede simplemente descargar el archivo <i>com.conversor.jar</i> del proyecto o haciendo <a href="https://github.com/fpetroni/com.conversor-unidades/raw/main/com.conversor.jar">clic aquí</a> simplemente (Me encargué de rutearlo por usted XD). IMPORTANTE: debe tener insta instalado el <b>jdk 11.0</b> o superior.
 
